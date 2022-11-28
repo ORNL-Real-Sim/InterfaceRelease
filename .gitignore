@@ -1,0 +1,9 @@
+tempLog.txt
+*.err
+*.log
+
+*archive*
+
+**/slprj/*
+**/__pycache__/*
+**/RealSim_tmp/*
